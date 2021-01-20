@@ -16,11 +16,11 @@ The CSS was typed using Styled Components and the app is split into multiple pag
 
 #### Versions used:
 
-    React 17.0.1
-    jest 5.11.6
-    Framer Motion 2.9.4
-    React Router DOM 5.2.0
-    styled-components 5.2.1
+React 17.0.1 <br>
+jest 5.11.6 <br>
+Framer Motion 2.9.4 <br>
+React Router DOM 5.2.0 <br>
+styled-components 5.2.1 <br>
 
 # Launch
 

@@ -30,7 +30,7 @@ The website can be viewed at: https://rqphotograpy.netlify.app/
 
 you can clone and run this Github repo using the below commands into your directory:
 
-`git clone https://github.com/riquiofficial/https---github.com-riquiofficial-RQ-Photography`
+`git clone https://github.com/riquiofficial/rqphotography`
 
 # Getting Started with Create React App
 
